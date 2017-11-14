@@ -1,0 +1,27 @@
+{
+  "name": "react-slider",
+  "version": "1.0.0",
+  "description": "Slider component for React updated for react 16..",
+  "main": "react-slider.js",
+  "keywords": [
+    "react-slider-new",
+    "react",
+    "component",
+    "slider",
+    "component"
+  ],
+  "author": "Michael Halliday <mhallidaydesign@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpowaga/react-slider.git"
+  },
+  "peerDependencies": {
+    "react": ">=16.1.1",
+    "prop-types": "^15.6.0",
+    "create-react-class": "^15.6.2"
+  }
+}
