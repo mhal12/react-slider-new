@@ -2,7 +2,7 @@
 
 CSS agnostic slider component for React.
 
-See demo: [https://mpowaga.github.io/react-slider/](https://mpowaga.github.io/react-slider/)
+See demo: [https://mhal12.github.io/react-slider-new/](https://mahl12.github.io/react-slider-new/)
 
 ### Important Note
 
@@ -11,7 +11,7 @@ This is an alpha release. Use with caution and hope.
 ### Installation
 
 ```sh
-npm install react-slider
+npm install react-slider-new
 ```
 
 ### Overview

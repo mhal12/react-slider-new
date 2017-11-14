@@ -1,5 +1,5 @@
 {
-  "name": "react-slider",
+  "name": "react-slider-new",
   "version": "1.0.0",
   "description": "Slider component for React updated for react 16..",
   "main": "react-slider.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mhal12/react-slider.git"
+    "url": "https://github.com/mhal12/react-slider-new.git"
   },
   "peerDependencies": {
     "react": ">=16.1.1",
